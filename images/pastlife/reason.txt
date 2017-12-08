@@ -1,0 +1,16 @@
+Warrior
+Monk
+Knight
+Ninja
+Wizard
+Singer
+Actor
+Millionaire
+Emperor
+Scientist
+Pirate
+Wrestler
+Footballer
+Soldier
+Astronaut
+Philosopher
